@@ -1,2 +1,7 @@
 # automation_test
-Structure for Automation test
+Framework
+- Playwright
+- Pytest (Traceviewer, Codegen)
+Languages
+- Python
+POM(Page Object Model)
